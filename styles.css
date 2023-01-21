@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://images.complex.com/complex/images/c_scale,f_auto,q_auto,w_1920/fl_lossy,pg_1/utgfcacoxl6hwd2bj2ay/10-most-influential-nba-players-2022-original-nonw?fimg-ssr-default");
+    color: #CF0A0A;
+   }
+
+.container {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h3 {
+    background-color: black;
+}
